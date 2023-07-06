@@ -1,7 +1,7 @@
 ![Banner.png](banner.png)
 
 
-### Hey there. My name is Radhakrishna, you can call me Krishna. Welcome to my github page!
+### Hello! My name is Radhakrishna, I also go by Krishna. It seems you have found my github page, Welcome!
 
 I am a motivated Computer Science student at UCI, currently pursuing my Bachelor's degree. My areas of interests lie within the realms of cybersecurity and artificial intelligence, both of which deeply intrigue me. I possess an unwavering commitment to continuous learning and strive to delve into the intricacies of these subjects. Below are some of my repositories, you can give them a look if you want to.
 
