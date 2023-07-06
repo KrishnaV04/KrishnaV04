@@ -2,12 +2,14 @@
 
 Hello!
 
-My name is Radhakrishna, you can call me Krishna. Welcome to my github page!
+###My name is Radhakrishna, you can call me Krishna. Welcome to my github page!
 
 I am a motivated Computer Science student at UCI, currently pursuing my Bachelor's degree. My areas of interests lie within the realms of cybersecurity and artificial intelligence, both of which deeply intrigue me. I possess an unwavering commitment to continuous learning and strive to delve into the intricacies of these subjects. Below are some of my repositories, you can give them a look if you want to.
 
 Here is my [linkedin](https://www.linkedin.com/in/radhakrishna-vempati-3a7b1b21a/), which also contains my contact info if you would like to get in touch.
 
+######Capture The Flag: I have hidden a simple flag in this README.md file. Can you find it? It looks like this: <FLAG>....<!FLAG>
+Hint: ||Have you heard of metadata?||
 
 
 <!--
