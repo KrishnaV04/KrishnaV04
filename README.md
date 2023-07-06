@@ -1,4 +1,4 @@
-![Banner.png](KrishnaV04/banner.png)
+![Banner.png](banner.png)
 
 Hello!
 
