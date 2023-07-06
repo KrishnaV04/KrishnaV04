@@ -3,7 +3,7 @@
 
 ### Hello! My name is Radhakrishna, I also go by Krishna. It seems you have found my github page, Welcome!
 
-I am a motivated Computer Science student at UCI, currently pursuing my Bachelor's degree. My areas of interests lie within the realms of cybersecurity and artificial intelligence, both of which deeply intrigue me. I possess an unwavering commitment to continuous learning and strive to delve into the intricacies of these subjects. Below are some of my repositories that you mught find intriguing.
+I am a motivated **Computer Science student at UCI**, currently pursuing my Bachelor's degree. My areas of interests lie within the realms of cybersecurity and artificial intelligence, both of which deeply intrigue me. I possess an unwavering commitment to continuous learning and strive to delve into the intricacies of these subjects. Below are some of my repositories that you mught find intriguing.
 
 Here is my [linkedin](https://www.linkedin.com/in/radhakrishna-vempati-3a7b1b21a/), which also contains my contact info if you would like to get in touch.
 
