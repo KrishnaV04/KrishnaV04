@@ -10,8 +10,18 @@ Here is my [linkedin](https://www.linkedin.com/in/radhakrishna-vempati-3a7b1b21a
 Capture The Flag: I have hidden a simple flag in this README file. Can you find it? It looks like this: `<FLAG>....<!FLAG>`
 <details>
   <summary>Hint</summary>
+  <details>
+    
+  <summary>Are you sure?</summary>
+  
+  <details>
+  <summary>Ok, here you go.</summary>
   
   Have you heard of metadata?
+  
+  </details>
+  
+  </details>
   
 </details>
 
