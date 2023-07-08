@@ -12,12 +12,13 @@ Capture The Flag: I have hidden a simple flag in this README file. Can you find 
   <summary>Hint</summary>
   <details>
     
-  <summary>Are you sure?</summary>
+  <summary>Are you sure you need a hint?</summary>
   
   <details>
-  <summary>Ok, here you go.</summary>
+  <summary>Last Chance...</summary>
+  Here it is:
   
-  Have you heard of metadata?
+  #### Have you heard of metadata? ####
   
   </details>
   
