@@ -16,7 +16,8 @@ Capture The Flag: I have hidden a simple flag in this README file. Can you find 
   
   <details>
   <summary>Last Chance...</summary>
-  Here it is: #### Have you heard of metadata? ####
+  Here it is: 
+    #### Have you heard of metadata? ####
   
   </details>
   
