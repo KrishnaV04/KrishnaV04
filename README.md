@@ -7,23 +7,6 @@ I am a motivated **Computer Science student at UCI**, currently pursuing my Bach
 Here is my [linkedin](https://www.linkedin.com/in/radhakrishna-vempati-3a7b1b21a/), which also contains my contact info if you would like to get in touch.
 
 Capture The Flag: I have hidden a simple flag in README. Can you find it? It looks like this: `<FLAG>....<!FLAG>`
-<details>
-  <summary>Hint</summary>
-  <details>
-    
-  <summary>Are you sure you need a hint?</summary>
-  
-  <details>
-  <summary>Last Chance...</summary>
-  Here it is: 
-    
-  #### Have you heard of metadata? ####
-  
-  </details>
-  
-  </details>
-  
-</details>
 
 
 <!--
